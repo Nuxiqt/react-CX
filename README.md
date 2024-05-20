@@ -1,5 +1,6 @@
 # Getting Started with react-cx
-To launch a React app, you'll need to follow these steps:
+
+This is just a simple app that tries to utilize canvasxpress.
 
 
 
@@ -55,8 +56,4 @@ yarn start
 This command will start the development server. You can view the app in your web browser by navigating to http://localhost:3000.
 
 Please ensure you follow all these steps to successfully install the packages and run the web app.
-
-## Disclaimer
-
-This is just a simple app that tries to utilize canvasxpress in functional way.
 
