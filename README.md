@@ -16,8 +16,6 @@ This project has a few key requirements:
 
 4. **React**: This project is built with React. You don't need to install React separately as it's included in the project dependencies.
 
-5. **IDE or Text Editor**: You'll need a text editor or an integrated development environment (IDE) to edit your code. Some popular choices are [Visual Studio Code](https://code.visualstudio.com/download), [Sublime Text](https://www.sublimetext.com/3), and [Atom](https://atom.io/).
-
 Please ensure you have all these requirements set up before you start working on the project.
 
 ## Installation and Running the App
