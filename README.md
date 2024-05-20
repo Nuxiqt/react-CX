@@ -24,7 +24,7 @@ Please ensure you have all these requirements set up before you start working on
 1. **Clone the repository**: First, you need to clone the repository to your local machine. You can do this with the following command:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Nuxiqt/react-CX.git
 ```
 
 Replace <repository-url> with the URL of the repository.
@@ -32,7 +32,7 @@ Replace <repository-url> with the URL of the repository.
 2. **Navigate to the project director**: Use the cd command to navigate to the project directory:
 
 ```bash
-cd <project-directory>
+cd react-cx
 ```
 
 Replace <project-directory> with the name of the directory that was created when you cloned the repository.
