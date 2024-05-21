@@ -1,6 +1,7 @@
 import './App.css';
 import { useState, useEffect } from 'react';
 import CanvasXpressReact from 'canvasxpress-react';
+import CXComp from './CXComp';
 
 function App() {
   const [message, setMessage] = useState('');
@@ -38,7 +39,9 @@ function App() {
                 <div className={val.user === 'Bot' ? "messageBot" : "messageIndividual"}>{val.user}: {val.text}</div>
                 {val.user === 'Bot' && 
                   <div>
-                    <CanvasXpressReact 
+                    <canvas id="canvasId" width="200" height="200" />
+                    <CanvasXpressReact
+                      target="canvasId"
                       data={{
                         y: {
                           data: [[1,2,3], [4,5,6], [7,8,9]],
@@ -48,6 +51,16 @@ function App() {
                       }}
                       config={{graphType: 'Bar'}}
                     />
+                    {/* <CXComp
+                      data={{
+                        y: {
+                          data: [[1,2,3], [4,5,6], [7,8,9]],
+                          smps: ['One', 'Two', 'Three'],
+                          vars: ['A', 'B', 'C']
+                        }
+                      }}
+                      config={{graphType: 'Bar'}}
+                    /> */}
                     {/* <canvas ref={setCanvasRef} width="200" height="200" /> */}
                   </div>
                 }
