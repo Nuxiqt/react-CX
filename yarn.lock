@@ -3164,17 +3164,17 @@ caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001587, caniuse-lite@^1.0.30001599:
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001620.tgz#78bb6f35b8fe315b96b8590597094145d0b146b4"
   integrity sha512-WJvYsOjd1/BYUY6SNGUosK9DUidBPDTnOARHp3fSmFO1ekdxaY6nKRttEVrfMmYi80ctS0kz1wiWmm14fVc3ew==
 
-canvasxpress-react@^49.9.16:
-  version "49.9.16"
-  resolved "https://registry.yarnpkg.com/canvasxpress-react/-/canvasxpress-react-49.9.16.tgz#c8f4584c54e79122d812df4ea8584d837c1e162e"
-  integrity sha512-fhYTWdaRKVGwZiRcrvAdV8bglYiJfgDkw7w/Fh+61Ax6Upr8/3aH67eDQh5SYVgeuMjSb51zsWYtyEuh9T7eMw==
+canvasxpress-react@^49.9.97:
+  version "49.9.97"
+  resolved "https://registry.yarnpkg.com/canvasxpress-react/-/canvasxpress-react-49.9.97.tgz#6c5cb2cf30c1897bf00d719fa8d119e9c90804e5"
+  integrity sha512-zWWiWncU6PQivE1W2xvqDvLERgF9oDznenocLj/9U0K7jao4QzWbLm++bsS3P1yiz2MbWo8Ho+xD3+uUhGhryg==
   dependencies:
-    canvasxpress "^49.9.16"
+    canvasxpress "^49.9.97"
 
-canvasxpress@^49.9.16:
-  version "49.4.88"
-  resolved "https://registry.yarnpkg.com/canvasxpress/-/canvasxpress-49.4.88.tgz#b5577b08fe197249ea025e0f7c3ad9513f4920dc"
-  integrity sha512-YRHYdNUJMcTmMmO0wlb2d4uh0sMhwm4mkbOyPCEUJxB5pMQ4wlvTKtKYBcR39W9FP9zg2ki1sgUFUY1xs4Bntw==
+canvasxpress@^49.9.97:
+  version "49.9.97"
+  resolved "https://registry.yarnpkg.com/canvasxpress/-/canvasxpress-49.9.97.tgz#3758716c64705ac83c40b98b131e23e9128bfac4"
+  integrity sha512-EzeafpmBcj++EAKlEMhH+/zDavg8g9XmWUYnMKRcsJd1nKGTQBk8s/JYZGhELeMEtMUTpq714eE20RB16Q6hyg==
 
 case-sensitive-paths-webpack-plugin@^2.4.0:
   version "2.4.0"
